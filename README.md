@@ -15,5 +15,11 @@ How has this course helped you in reaching your professional goals? What skills 
 
 CS465: Journal Eight
 
-For this project we built a full stack web application with a client side and an admin side, using HTML and JavaScript for the frontend and a single page application for the admin so the page could update without fully reloading. We used MongoDB for the database because it is flexible and easy to work with. Throughout the project I cleaned up repeated code by turning it into reusable components, which made everything easier to manage. This course gave me real hands on experience building something from scratch and helped me understand how all the pieces of a web application fit together.
+Express HTML was used for static pages that did not change, JavaScript allowed the pages to respond to user actions, and the single page application made the admin side smoother since it could update content without reloading the whole page. NoSQL MongoDB was used for the backend because it stores data in a flexible way that does not require everything to fit into a rigid structure.
+
+JSON is different from JavaScript in that it is just a format for organizing data while JavaScript is a language that can actually do things with that data. JSON tied the frontend and backend together by giving both sides a way to send and receive information. One example of refactoring was turning repeated parts of the interface into reusable components, which meant that any updates only needed to be made in one place and kept the codebase much cleaner overall.
+
+Methods are used to request or receive data from the application and endpoints are the specific locations in the API that handle those requests. Security makes testing more complicated because it adds extra steps to the testing process to verify everything is working the way it should.
+
 Looking back on the whole process, this project taught me a lot about how a web application actually comes together from start to finish. There were definitely moments where things did not work the way I expected and I had to slow down and troubleshoot, which I think is one of the most valuable skills you can build as a developer. Overall I feel a lot more confident in my ability to work on full stack projects and I have a much better understanding of how the frontend, backend, and database all work together as one system.
+
